@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Guitar Tuner Tester</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_choose_tuning">ChooseTuning</string>
+    <string name="title_activity_choose_instrument">ChooseInstrument</string>
+    <string name="title_activity_metronome">Metronome</string>
+    <string name="prompt">Select Option</string>
+    <string-array name="txtTime">
+        <item>4/4</item>
+        <item>3/4</item>
+        <item>2/4</item>
+        <item>6/8</item>
+        <item>5/4</item>
+    </string-array>
+
+    <string-array name="txtNote">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+    </string-array>
+
+    <string-array name="txtOctave">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+    <string-array name="txtTuning">
+        <item>Standard: EADGBe</item>
+        <item>Drop D: DADGBE</item>
+        <item>Drop C: CGCFAD</item>
+        <item>Common Folk: DADGAD</item>
+        <item>Standard Bass: EADG</item>
+        <item>Low 5 String Bass: BEADG</item>
+        <item>High 5 String Bass: EADGB</item>
+        <item>6 String Bass: EADGBe</item>
+    </string-array>
+
+    <string-array name="txtInstrument">
+        <item>6 String Guitar</item>
+        <item>7 String Guitar</item>
+        <item>8 String Guitar</item>
+        <item>12 String Guitar</item>
+        <item>4 String Bass</item>
+        <item>5 String Bass</item>
+        <item>6 String Bass</item>
+        <item>Sitar</item>
+    </string-array>
+</resources>
